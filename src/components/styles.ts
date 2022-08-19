@@ -13,7 +13,7 @@ export const Code = styled.code`
   padding: 16px;
   border-radius: 5px;
   * {
-    color: rgb(248, 248, 242);
+    //color: rgb(248, 248, 242);
     letter-spacing: 0;
     line-height: 24px;
     font-weight: 400;
